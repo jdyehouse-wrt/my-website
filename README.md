@@ -1,5 +1,5 @@
 # my-website
-practice website for workshop
+practice website **fairness** for workshop
 
 > Hello, world
 
